@@ -3,4 +3,13 @@ src = "src"
 out = "out"
 libs = ["lib"]
 
+[rpc_endpoints]
+mainnet = "https://rpc.ankr.com/eth"
+blast = "https://rpc.ankr.com/blast"
+optimism = "https://optimism.llamarpc.com"
+arbitrum = "https://rpc.ankr.com/arbitrum"
+bsc = "https://rpc.ankr.com/bsc"
+polygon = "https://rpc.ankr.com/polygon"
+Base = "https://developer-access-mainnet.base.org"
+
 # See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
