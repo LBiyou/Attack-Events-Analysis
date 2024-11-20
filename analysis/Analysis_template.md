@@ -1,5 +1,5 @@
 ---
-title: [attack name] @[vulnerability type]
+title: attack name @vulnerability type
 categories: Attack_Events_Analysis
 tags:
   - [vulnerability type]
