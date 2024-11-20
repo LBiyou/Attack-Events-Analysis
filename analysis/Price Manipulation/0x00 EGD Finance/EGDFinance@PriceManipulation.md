@@ -12,9 +12,9 @@ date: 2024-04-01 10:00
 
 - 时间：*2022-08-07*
 
-- 损失金额：*~36_044 $*
+- 损失：*~36_044 $*
 
-- 漏洞原因： *池子`[PancakeSwap V2:EGD-BSC-USD]`的价格被操纵，将`EGD`的价格严重拉低，使得`rew`的值变大，从而获取更多的`EGD Token`。*
+- 漏洞： *池子`[PancakeSwap V2:EGD-BSC-USD]`的价格被操纵，将`EGD`的价格严重拉低，使得`rew`的值变大，从而获取更多的`EGD Token`。*
 
 ```solidity
 rew += quota * 1e18 / getEGDPrice();
