@@ -3,7 +3,7 @@ title: EGD Finance @Price Manipulation
 categories: Attack_Events_Analysis
 tags:
   - Price Manipulation
-date: 2024-04-01 10:00:00
+date: 2024-04-01 10:00
 ---
 
 
@@ -34,17 +34,20 @@ rew += quota * 1e18 / getEGDPrice();
 - *Vulnerable Contract : 0x93c175439726797dcee24d08e4ac9164e88e7aee (Logic)*
 - *Pair(EGD, USD)：0xa361433E409Adac1f87CDF133127585F8a93c67d [Pancake LPs (Cake-LP)]*
 - *Pair(WBNB, USD)：0x16b9a82891338f9bA80E2D6970FddA79D1eb0daE [PancakeSwap: WBNB-BSC-USD]*
-- 
-
-
 
 #### 资金流向
 
+- 资金流向图：
 
+![image-20241119164700082](EGDFinance@PriceManipulation/image-20241119164700082.png)
+
+- 资金变换
+
+![image-20241119165038512](EGDFinance@PriceManipulation/image-20241119165038512.png)
 
 #### 攻击流程
 
-
+![image-20241120094946131](EGDFinance@PriceManipulation/image-20241120094946131.png)
 
 #### 解析攻击步骤
 
