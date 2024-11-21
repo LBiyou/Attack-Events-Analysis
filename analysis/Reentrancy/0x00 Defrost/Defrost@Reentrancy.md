@@ -18,7 +18,7 @@ date: 2024-04-02 10:00
 - *Hacker Address: 0x7373dca267bdc623dfba228696c9d4e8234469f6*
 - *Attack Contract: 0x792e8f3727cad6e00c58d478798f0907c4cec340*
 - *Attack Tx：0xc6fb8217e45870a93c25e2098f54f6e3b24674a3083c30664867de474bf0212d*
-- **Vulnerable Contract : 0xff152e21c5a511c478ed23d1b89bb9391be6de96*
+- *Vulnerable Contract : 0xff152e21c5a511c478ed23d1b89bb9391be6de96*
 - *pair(WAVAX ,USDC)：0xf4003F4efBE8691B60249E6afbD307aBE7758adb[Joe LP Token (JLP)]*
 
 #### 资金流向
