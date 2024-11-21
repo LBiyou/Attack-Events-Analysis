@@ -11,5 +11,6 @@ arbitrum = "https://rpc.ankr.com/arbitrum"
 bsc = "https://rpc.ankr.com/bsc"
 polygon = "https://rpc.ankr.com/polygon"
 Base = "https://developer-access-mainnet.base.org"
+Avalanche = "https://rpc.ankr.com/avalanche"
 
 # See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
