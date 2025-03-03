@@ -14,3 +14,8 @@
 ### Note
 
 The analyses in this repository reflect my personal views and interpretations. If you find any inaccuracies or have different insights, please feel free to point them out. I welcome constructive feedback and corrections.
+
+
+### Type
+- Price Manipulation
+- Arbitrary call
